@@ -1,0 +1,62 @@
+{
+  "manifest_version": 3,
+  "name": "Comp — Your Activity-Aware Companion",
+  "short_name": "Comp",
+  "version": "0.1.0",
+  "description": "A quiet companion that reacts to your activity with ASCII art, emoticons, and encouragement instead of suggestions.",
+
+  "icons": {
+    "16": "public/icons/icon16.png",
+    "32": "public/icons/icon32.png",
+    "48": "public/icons/icon48.png",
+    "128": "public/icons/icon128.png"
+  },
+
+  "background": {
+    "service_worker": "src/background/index.js",
+    "type": "module"
+  },
+
+  "action": {
+    "default_popup": "src/popup/popup.html",
+    "default_icon": {
+      "16": "public/icons/icon16.png",
+      "32": "public/icons/icon32.png",
+      "48": "public/icons/icon48.png",
+      "128": "public/icons/icon128.png"
+    }
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["https://github.com/*"],
+      "js": ["src/content_scripts/base_sensor.js", "src/content_scripts/github_sensor.js"],
+      "run_at": "document_idle"
+    },
+    {
+      "matches": ["https://leetcode.com/*"],
+      "js": ["src/content_scripts/base_sensor.js", "src/content_scripts/leetcode_sensor.js"],
+      "run_at": "document_idle"
+    },
+    {
+      "matches": [
+        "https://github.com/*",
+        "https://leetcode.com/*"
+      ],
+      "css": ["src/widget/widget.css"]
+    }
+  ],
+
+  "permissions": [
+    "storage",
+    "alarms",
+    "idle"
+  ],
+
+  "host_permissions": [
+    "https://github.com/*",
+    "https://leetcode.com/*"
+  ],
+
+  "minimum_chrome_version": "110"
+}
