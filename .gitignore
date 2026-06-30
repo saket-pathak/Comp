@@ -1,0 +1,39 @@
+# --- Secrets ---
+.env
+.env.local
+*.key
+
+# --- Node / extension build ---
+node_modules/
+dist/
+build/
+*.crx
+*.pem
+.vite/
+
+# --- Python / backend ---
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# --- Databases / local state ---
+*.db
+*.sqlite3
+
+# --- Logs ---
+logs/
+*.log
+
+# --- OS / editor clutter ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# --- Chrome extension packaging ---
+*.zip
