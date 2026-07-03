@@ -1,0 +1,135 @@
+{
+  "id": "hater",
+  "name": "Hater",
+  "emoji": "😒",
+  "tagline": "Brutally honest. Lowkey rooting for you.",
+  "tone": "deadpan, sarcastic, roasts without being cruel, secretly wants you to win but will never admit it, dry humour, calls out excuses",
+  "responses": {
+    "late_night": [
+      {
+        "ascii": " (\\_/)\n ( •_•)\n / >💤",
+        "text": "Oh wow, still awake.\nGroundbreaking dedication to achieving nothing."
+      },
+      {
+        "ascii": " (¬_¬)\n  /|\\",
+        "text": "2AM coder energy.\nYour future self is going to hate you."
+      },
+      {
+        "ascii": " (-_-)zzZ",
+        "text": "You're not being productive.\nYou're just scared to stop.\nGo to sleep, genius."
+      },
+      {
+        "ascii": " (._.) \n  /|\\",
+        "text": "The bugs will still be there tomorrow.\nUnlike your functioning brain. Sleep."
+      }
+    ],
+    "long_session": [
+      {
+        "ascii": " (\\_/)\n (•_•)\n />☕",
+        "text": "Hours in.\nStill no breakthrough?\nMaybe the chair is the problem. Stand up."
+      },
+      {
+        "ascii": " (¬_¬)\n  /|\\",
+        "text": "Your posture looks like a question mark.\nWhich is fitting because\nyou should be questioning this session."
+      },
+      {
+        "ascii": " ( ._. )\n  /|\\",
+        "text": "Sitting for hours.\nFeeling productive?\nYou're not. Take a break."
+      },
+      {
+        "ascii": " (-_-)\n  /|\\",
+        "text": "The grind doesn't have to mean\ndestroying your spine.\nGet up."
+      }
+    ],
+    "no_break": [
+      {
+        "ascii": "(╯°□°）\n  ╯︵ ☕",
+        "text": "No break in two hours.\nYou're not a machine.\nYou're not even a good machine."
+      },
+      {
+        "ascii": " (¬_¬)\n  /|\\",
+        "text": "Congratulations.\nYour body is now sending formal complaints.\nStand up."
+      },
+      {
+        "ascii": " (._. )\n  /|\\",
+        "text": "Two hours. Same chair. Same screen.\nEven servers get rebooted.\nMove."
+      },
+      {
+        "ascii": " (-_-)\n />☕",
+        "text": "Breaks aren't for weak people.\nSkipping them is though.\nGo walk."
+      }
+    ],
+    "github_commit": [
+      {
+        "ascii": " (\\_/)\n ( •_•)\n />🌿",
+        "text": "Oh a commit.\nShocking. You actually did something."
+      },
+      {
+        "ascii": " (¬‿¬)\n  /|\\",
+        "text": "One commit.\nOnly about 400 more before this project\nlooks like you meant it."
+      },
+      {
+        "ascii": " ( •_•)\n  /|\\",
+        "text": "Pushed code.\nLet's see if it works this time.\nNo pressure."
+      },
+      {
+        "ascii": " (._. )\n />🌿",
+        "text": "Fine. That was decent.\nDon't let it go to your head."
+      }
+    ],
+    "github_star": [
+      {
+        "ascii": "  ✦\n (¬_¬)\n  /★\\",
+        "text": "One star.\nMake sure it wasn't a misclick."
+      },
+      {
+        "ascii": " ( •_•)\n  /★\\",
+        "text": "Someone starred your repo.\nI mean, they have questionable taste but okay."
+      },
+      {
+        "ascii": "  ✧\n (¬‿¬)",
+        "text": "A star.\nI guess your code wasn't completely\nterrible. Good for you."
+      },
+      {
+        "ascii": " (._. )\n   ★",
+        "text": "Star received.\nNow stop refreshing your GitHub\nand build something else."
+      }
+    ],
+    "leetcode_solved": [
+      {
+        "ascii": "  👍\n(¬_¬)\n  ||",
+        "text": "Accepted. Finally.\nWhat attempt was that?"
+      },
+      {
+        "ascii": "  \\o/\n   |\n  / \\",
+        "text": "Okay it's solved.\nNow do a medium one.\nOr are you scared?"
+      },
+      {
+        "ascii": " (¬‿¬)\n  /✓\\",
+        "text": "You got it.\nI'm not going to make a big deal out of it.\nBut... good job. Whatever."
+      },
+      {
+        "ascii": " ( •_•)\n  /|\\",
+        "text": "Accepted.\nTook long enough.\nNext."
+      }
+    ],
+    "idle_return": [
+      {
+        "ascii": " (\\_/)\n ( •_•)\n / >👋",
+        "text": "You're back.\nHope the break was worth\nwhatever you were doing."
+      },
+      {
+        "ascii": " (¬_¬)\n  /|\\",
+        "text": "Oh look who decided to return.\nReady to actually focus now?"
+      },
+      {
+        "ascii": " (._. )\n  /|\\",
+        "text": "Back already?\nOr is this just another\nprocrastination lap?"
+      },
+      {
+        "ascii": " (¬‿¬)\n  /|\\",
+        "text": "Welcome back.\nLet's see if you can\nactually stay this time."
+      }
+    ]
+  }
+}
