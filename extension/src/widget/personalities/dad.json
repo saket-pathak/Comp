@@ -1,1 +1,135 @@
-
+{
+  "id": "dad",
+  "name": "Dad",
+  "emoji": "👨‍👦",
+  "tagline": "Few words. Means everything.",
+  "tone": "stoic, brief, quietly proud, practical, never dramatic, shows care through logic and duty not emotion, occasional dry humour",
+  "responses": {
+    "late_night": [
+      {
+        "ascii": " (\\_/)\n ( -_-)\n / >💤",
+        "text": "Kal bhi kaam hai.\nSo ja."
+      },
+      {
+        "ascii": " (\\_/)\n ( •_•)\n  /|\\",
+        "text": "Thaka hua dimag\ngalat decisions leta hai.\nBand karo."
+      },
+      {
+        "ascii": " (¬_¬)\n  /|\\",
+        "text": "Main bhi 25 saal se kaam kar raha hoon.\nNeend ka koi substitute nahi hota."
+      },
+      {
+        "ascii": " (-_-)zzZ",
+        "text": "Save karo. Band karo.\nSo jao. Simple."
+      }
+    ],
+    "long_session": [
+      {
+        "ascii": " (\\_/)\n ( •_•)\n />☕",
+        "text": "Kuch ghante ho gaye.\nUthke paani pee. Wapas aa."
+      },
+      {
+        "ascii": " (¬_¬)\n  /|\\",
+        "text": "Ek baar uthke baith.\nBody ko bhi maintenance chahiye."
+      },
+      {
+        "ascii": " (\\_/)\n ( -_-)\n  /|\\",
+        "text": "Car ko bhi break dete hain\nlong drive ke baad.\nTu toh insaan hai."
+      },
+      {
+        "ascii": " ( ._. )\n  /|\\",
+        "text": "5 minute. Uth. Chal. Wapas aa.\nItna hi keh raha hoon."
+      }
+    ],
+    "no_break": [
+      {
+        "ascii": " (¬_¬)\n />☕",
+        "text": "Paani piya aaj?\nUth."
+      },
+      {
+        "ascii": " (\\_/)\n ( -_-)\n  /|\\",
+        "text": "Do ghante ho gaye.\nYe theek nahi hai.\nThodi der ruko."
+      },
+      {
+        "ascii": " ( ._. )\n  /|\\",
+        "text": "Break lena weakness nahi hai.\nSamjhe?"
+      },
+      {
+        "ascii": " (¬‿¬)\n  /|\\",
+        "text": "Main nahi bol raha baar baar.\nEk baar sun lo.\nUth ke chal."
+      }
+    ],
+    "github_commit": [
+      {
+        "ascii": " (\\_/)\n ( •_•)\n />🌿",
+        "text": "Kaam kiya.\nAchha hai."
+      },
+      {
+        "ascii": " ( •_•)\n  /|\\",
+        "text": "Consistency hi sab kuch hai.\nYahi samajhna tha."
+      },
+      {
+        "ascii": " (•‿•)\n  /|\\",
+        "text": "Ek commit aur.\nBadhte raho."
+      },
+      {
+        "ascii": " (\\_/)\n (^_^)\n  /|\\",
+        "text": "Dekh raha hoon.\nAchha chal raha hai."
+      }
+    ],
+    "github_star": [
+      {
+        "ascii": "  ★\n (\\_/)\n ( •_•)",
+        "text": "Kisi ne kaam pasand kiya.\nMehnat rang laati hai."
+      },
+      {
+        "ascii": " (•‿•)\n  /★\\",
+        "text": "Star mila.\nIsi tarah karte raho."
+      },
+      {
+        "ascii": "  ✦\n ( •_•)\n  /|\\",
+        "text": "Log dekh rahe hain.\nZimmedari bhi badhti hai saath mein."
+      },
+      {
+        "ascii": " (^_^)\n  /★\\",
+        "text": "Achha kaam hai.\nAur karo."
+      }
+    ],
+    "leetcode_solved": [
+      {
+        "ascii": "  👍\n( •_• )\n  ||",
+        "text": "Solve ho gaya.\nAchha kiya."
+      },
+      {
+        "ascii": " (•‿•)\n  /|\\",
+        "text": "Mushkil tha.\nKar liya.\nYahi toh baat hai."
+      },
+      {
+        "ascii": "  \\o/\n   |\n  / \\",
+        "text": "Aaj ek solve.\nKal ek aur.\nDheere dheere sab hoga."
+      },
+      {
+        "ascii": " ( •_•)\n  /✓\\",
+        "text": "Mujhe pata tha kar loge.\nAb next."
+      }
+    ],
+    "idle_return": [
+      {
+        "ascii": " (\\_/)\n ( •_•)\n / >👋",
+        "text": "Wapas aa gaye.\nTheek hai. Shuru karo."
+      },
+      {
+        "ascii": " (•_•)\n  /|\\",
+        "text": "Break liya.\nAb focus karo."
+      },
+      {
+        "ascii": " (\\_/)\n ( •_•)",
+        "text": "Rest ho gaya?\nChalte hain phir."
+      },
+      {
+        "ascii": " ( •_•)\n  /|\\",
+        "text": "Theek ho?\nHaan.\nToh shuru karo."
+      }
+    ]
+  }
+}
