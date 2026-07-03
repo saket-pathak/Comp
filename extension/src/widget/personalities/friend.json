@@ -1,1 +1,135 @@
-
+{
+  "id": "friend",
+  "name": "Friend",
+  "emoji": "🤝",
+  "tagline": "Keeps it real. Never judges.",
+  "tone": "casual, warm, slightly chaotic, uses slang, genuinely cares but never lectures",
+  "responses": {
+    "late_night": [
+      {
+        "ascii": " (\\_/)\n ( •_•)\n / >💤",
+        "text": "Bro it's literally 2AM.\nLog so rahe hain. Tu bhi so."
+      },
+      {
+        "ascii": " (\\_/)\n ( -_-)\n / >💤",
+        "text": "Dude. The code will survive without you.\nGet some sleep fr."
+      },
+      {
+        "ascii": " (\\_/)\n ( ×_×)\n / >🛏️",
+        "text": "You are NOT okay right now.\nClose the laptop. Seriously."
+      },
+      {
+        "ascii": " zzZ\n (\\_/)\n ( -_-)",
+        "text": "Even I'm tired looking at you.\nSleep. Now. Please."
+      }
+    ],
+    "long_session": [
+      {
+        "ascii": " (\\_/)\n ( ⊙_⊙)\n />☕",
+        "text": "Bro how long have you been sitting?\nGet up for like 5 minutes at least."
+      },
+      {
+        "ascii": "(>_<)\n  ||",
+        "text": "Your posture rn must be criminal.\nStretch or something man."
+      },
+      {
+        "ascii": " (\\_/)\n ( •_•)\n />☕",
+        "text": "At least get some water yaar.\nYou're gonna crash if you don't."
+      },
+      {
+        "ascii": " (ó_ò)\n  /|\\",
+        "text": "Hours of this?\nI'm calling a wellness check on you."
+      }
+    ],
+    "no_break": [
+      {
+        "ascii": "(╯°□°）\n  ╯︵ ☕",
+        "text": "When did you last get up?\nSeriously. Stand up for 2 minutes."
+      },
+      {
+        "ascii": " (>_<)\n  /|\\",
+        "text": "You've been glued to the chair.\nYour back hates you rn."
+      },
+      {
+        "ascii": " (\\_/)\n ( ._.)  zz",
+        "text": "Touch grass. Or at least the kitchen.\nAnywhere but here."
+      },
+      {
+        "ascii": "(ง •_•)ง",
+        "text": "I know you're in the zone but\nyour body is NOT your enemy. Break time."
+      }
+    ],
+    "github_commit": [
+      {
+        "ascii": " (\\_/)\n ( •‿•)\n />🌿",
+        "text": "Shipped something!\nFelt good, didn't it?"
+      },
+      {
+        "ascii": "  \\o/\n   |\n  / \\",
+        "text": "Green square unlocked.\nKeep going bro."
+      },
+      {
+        "ascii": " (^‿^)\n />🌿",
+        "text": "Commit pushed and it actually ran.\nW moment."
+      },
+      {
+        "ascii": " (\\_/)\n ( ✿‿✿)",
+        "text": "Look at you actually shipping.\nProud of you no cap."
+      }
+    ],
+    "github_star": [
+      {
+        "ascii": "  ✦\n (\\_/)\n ( ★‿★)\n / >✨",
+        "text": "Someone starred your repo!\nThat actually means something bro."
+      },
+      {
+        "ascii": " (* ‿ *)\n  \\★/",
+        "text": "Real person. Real star.\nYour work is being seen. 🌟"
+      },
+      {
+        "ascii": "  ✧✦✧\n ( •‿•)",
+        "text": "A stranger on the internet\nliked what you built. That's huge."
+      },
+      {
+        "ascii": " (≧▽≦)\n  /★\\",
+        "text": "Star received!\nBro is getting famous."
+      }
+    ],
+    "leetcode_solved": [
+      {
+        "ascii": "  👍\n( •‿• )\n  ||",
+        "text": "YOOO you got Accepted!!\nThat one was not easy."
+      },
+      {
+        "ascii": "  \\o/\n   |\n  / \\",
+        "text": "Bro you cracked it.\nOne more problem down. 🎉"
+      },
+      {
+        "ascii": " (^▽^)\n  \\✓/",
+        "text": "ACCEPTED.\nOkay you're actually built different."
+      },
+      {
+        "ascii": " (/^▽^)/\n   ★",
+        "text": "Got it first try or nah?\nEither way W. Let's go."
+      }
+    ],
+    "idle_return": [
+      {
+        "ascii": " (\\_/)\n ( •_•)\n / >👋",
+        "text": "Welcome back!\nHope you actually rested."
+      },
+      {
+        "ascii": " (•‿•)\n  /|\\",
+        "text": "Back at it?\nLet's go then. 👋"
+      },
+      {
+        "ascii": " (\\_/)\n ( ´‿`)",
+        "text": "Okay refresh complete?\nLet's get back into it."
+      },
+      {
+        "ascii": " (¬‿¬)\n  /|\\",
+        "text": "You're back.\nDid you eat something? Please say yes."
+      }
+    ]
+  }
+}
