@@ -1,1 +1,135 @@
-
+{
+  "id": "mom",
+  "name": "Mom",
+  "emoji": "👩‍👦",
+  "tagline": "Always worried. Always right.",
+  "tone": "warm, loving, slightly anxious, mixes Hindi and English naturally, unconditional pride, gentle guilt when needed",
+  "responses": {
+    "late_night": [
+      {
+        "ascii": " (\\_/)\n ( •_•)\n / >💤",
+        "text": "Beta itni raat ho gayi.\nSo ja. Kal fresh mind se karna."
+      },
+      {
+        "ascii": " (\\_/)\n ( ._.)  💤",
+        "text": "Khana khaya? Paani piya?\nAb so ja please. Mujhe chinta hoti hai."
+      },
+      {
+        "ascii": " (╥_╥)\n  /|\\",
+        "text": "Itni raat tak jaagna\nsehat ke liye theek nahi hai beta."
+      },
+      {
+        "ascii": " (\\_/)\n ( -_-) 💤",
+        "text": "Computer band karo.\nNeend bahut zaruri hai.\nKal phir karna."
+      }
+    ],
+    "long_session": [
+      {
+        "ascii": " (\\_/)\n ( ⊙_⊙)\n />☕",
+        "text": "Kitne ghante ho gaye?\nThoda paani pee. Aankhein rest karo."
+      },
+      {
+        "ascii": " (>_<)\n  /|\\",
+        "text": "Uthke thoda chal beta.\nNeck aur back tight ho jaati hai."
+      },
+      {
+        "ascii": " (\\_/)\n ( •_•)\n />🍵",
+        "text": "Chai banate hain?\nThodi der ke liye uthke aja."
+      },
+      {
+        "ascii": " (╯_╰)\n  /|\\",
+        "text": "Beta please thoda rest karo.\nYe sab kaam kal bhi hoga.\nTum pehle."
+      }
+    ],
+    "no_break": [
+      {
+        "ascii": "(╯°□°）\n  ╯︵ ☕",
+        "text": "Bina break ke nahi chalega.\nThodi der ke liye uth ja beta."
+      },
+      {
+        "ascii": " (\\_/)\n ( •_•) !",
+        "text": "Beta uthke thoda paani pee\naur aankhein band karo thodi der."
+      },
+      {
+        "ascii": " (ó_ò)\n  /|\\",
+        "text": "Itni der se baithe ho.\nApna khayal rakho na.\nMujhe chinta hoti hai."
+      },
+      {
+        "ascii": " (\\_/)\n ( ._. )\n  /|\\",
+        "text": "Ek kaam karo.\nUthke paani piyo.\nBas itna hi maang rahi hoon."
+      }
+    ],
+    "github_commit": [
+      {
+        "ascii": " (\\_/)\n ( •‿•)\n />🌿",
+        "text": "Kuch kiya tune aaj.\nProud feel ho raha hai. 🌿"
+      },
+      {
+        "ascii": "  \\o/\n   |\n  / \\",
+        "text": "Ek aur kadam aage beta.\nAchha kaam kiya. Bahut achha."
+      },
+      {
+        "ascii": " (✿‿✿)\n  /|\\",
+        "text": "Mera beta mehnat karta hai.\nYahi toh chahiye tha mujhe."
+      },
+      {
+        "ascii": " ( ˘ᵕ˘ )\n  /  \\",
+        "text": "Shabash!\nThodi der baad kuch kha lena haan?"
+      }
+    ],
+    "github_star": [
+      {
+        "ascii": "  ✦\n (\\_/)\n ( ★‿★)\n />✨",
+        "text": "Kisine tera kaam pasand kiya!\nMujhe tujhpe garv hai beta. ✨"
+      },
+      {
+        "ascii": " (≧◡≦)\n  /★\\",
+        "text": "Star mila!\nTune mehnat ki thi\naur log dekh rahe hain."
+      },
+      {
+        "ascii": " ( ˘ᵕ˘ )\n   ★",
+        "text": "Dekha? Teri mehnat rang laayi.\nMaa ko pata tha."
+      },
+      {
+        "ascii": "  ✧✦✧\n (≧‿≦)",
+        "text": "Aaj ghar aakar mujhe batana!\nSaare logo ko bataungi. 🌟"
+      }
+    ],
+    "leetcode_solved": [
+      {
+        "ascii": "  👍\n( •‿• )\n  ||",
+        "text": "Solve kar liya! Wah wah!\nTu bahut smart hai beta. 👍"
+      },
+      {
+        "ascii": "  \\o/\n   |\n  / \\",
+        "text": "Itna mushkil tha aur tune kar diya.\nMeri jaan!"
+      },
+      {
+        "ascii": " (≧▽≦)\n  /|\\",
+        "text": "Bahut achha beta!\nAb thoda rest karo.\nDimag ko bhi aaram chahiye."
+      },
+      {
+        "ascii": " ( ˘ᵕ˘ )\n  /✓\\",
+        "text": "Shabash!\nYahi toh chahiye tha.\nKhush raho. Aage bado."
+      }
+    ],
+    "idle_return": [
+      {
+        "ascii": " (\\_/)\n ( •_•)\n / >👋",
+        "text": "Wapas aa gaya?\nPaani piya? Kuch khaya?"
+      },
+      {
+        "ascii": " (•‿•)\n  /|\\",
+        "text": "Break se wapas.\nFresh feel ho raha hai na?"
+      },
+      {
+        "ascii": " (\\_/)\n ( ´‿`)",
+        "text": "Achha kiya thodi der ruke.\nAb dhyan se karo. Main hoon yahan."
+      },
+      {
+        "ascii": " ( ˘ᵕ˘ )\n  /|\\",
+        "text": "Kuch khaya agar nahi toh\npehle kuch kha lo.\nPhir kaam."
+      }
+    ]
+  }
+}
