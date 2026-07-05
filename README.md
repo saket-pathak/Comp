@@ -7,16 +7,6 @@ Comp is a browser extension that lives quietly in the corner of your screen, lik
 No suggestions to accept or reject. No actionable to-dos. Just a companion that cares.
 
 ```
- (\_/)
- ( •_•)
- / >💤
-
-You've been coding for 5 hours.
-Go get some sleep.
-Your bugs will still be here tomorrow.
-```
-
----
 
 ## Why
 
